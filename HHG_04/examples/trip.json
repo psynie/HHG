@@ -1,0 +1,7 @@
+{
+  "expenses": [
+    {"payer": "Asha", "amount": "90.00", "shared_by": ["Asha", "Ben", "Chitra"]},
+    {"payer": "Asha", "amount": "45.00", "shared_by": ["Asha", "Ben", "Chitra"]},
+    {"payer": "Ben", "amount": "30.00", "shared_by": ["Asha", "Ben", "Chitra"]}
+  ]
+}

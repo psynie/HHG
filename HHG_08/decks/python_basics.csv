@@ -1,0 +1,10 @@
+What keyword defines a function in Python?,def
+Which built-in returns the number of items in a list?,len()
+What does list.append(x) do?,Adds x to the end of the list
+How do you create an empty dictionary?,{} or dict()
+What is the result of 7 // 2?,3 (floor division)
+What does the 'in' operator test?,Membership in a sequence or collection
+Which statement handles exceptions?,try / except
+What does 'pass' do?,Nothing; it is a placeholder statement
+How do you open a file safely so it always closes?,with open(path) as f:
+What is a list comprehension?,A compact expression that builds a list from an iterable
